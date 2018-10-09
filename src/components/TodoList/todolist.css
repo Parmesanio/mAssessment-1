@@ -1,0 +1,12 @@
+.todo-item {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.complete {
+    color: lightgray;
+    text-decoration: line-through;
+}
+button {
+    font-weight: bold;
+}
